@@ -1,0 +1,276 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Сб 20 фев 2016 18:24:12
+
+BeginCmp
+TimeStamp = /55F5CAFC;
+Reference = C1;
+ValeurCmp = 1000.0x25V;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5C935;
+Reference = C2;
+ValeurCmp = 1.0;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5C733;
+Reference = C3;
+ValeurCmp = 1.0;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5C751;
+Reference = C4;
+ValeurCmp = 2200.0x25V;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5C7E2;
+Reference = C5;
+ValeurCmp = 0.22;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5C8DB;
+Reference = C6;
+ValeurCmp = 1.0;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5CADE;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = DO_214AA;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5CAED;
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = DO_214AA;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5C780;
+Reference = D3;
+ValeurCmp = DIODE;
+IdModule  = DO_214AA;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5C7A7;
+Reference = D4;
+ValeurCmp = DIODE;
+IdModule  = DO_214AA;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AA17CD;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AA1EE0;
+Reference = D6;
+ValeurCmp = DIODE;
+IdModule  = DO_214AA;
+EndCmp
+
+BeginCmp
+TimeStamp = /56A8AAA4;
+Reference = D7;
+ValeurCmp = DIODE;
+IdModule  = DO_214AA;
+EndCmp
+
+BeginCmp
+TimeStamp = /56A8C773;
+Reference = D8;
+ValeurCmp = DIODE;
+IdModule  = DO_214AA;
+EndCmp
+
+BeginCmp
+TimeStamp = /56A8AAE5;
+Reference = D9;
+ValeurCmp = DIODE;
+IdModule  = DO_214AA;
+EndCmp
+
+BeginCmp
+TimeStamp = /56A8C791;
+Reference = D10;
+ValeurCmp = DIODE;
+IdModule  = DO_214AA;
+EndCmp
+
+BeginCmp
+TimeStamp = /56A8AA81;
+Reference = IC1;
+ValeurCmp = MOC3020M;
+IdModule  = DIP-6__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AA1A2F;
+Reference = J1;
+ValeurCmp = DB9;
+IdModule  = DB9MC;
+EndCmp
+
+BeginCmp
+TimeStamp = /56A8C9A4;
+Reference = J2;
+ValeurCmp = DB9;
+IdModule  = DB9FC;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C0E74D;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C0E390;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C0E834;
+Reference = P2;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C0E529;
+Reference = P3;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AA152D;
+Reference = Q1;
+ValeurCmp = NPN;
+IdModule  = SOT23EBC;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AA1689;
+Reference = Q2;
+ValeurCmp = NPN;
+IdModule  = SOT23EBC;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AA18E2;
+Reference = Q3;
+ValeurCmp = NPN;
+IdModule  = SOT23EBC;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5CA8C;
+Reference = R1;
+ValeurCmp = 120k*;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F71EBA;
+Reference = R2;
+ValeurCmp = 20k*;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5C90D;
+Reference = R3;
+ValeurCmp = 100k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5C926;
+Reference = R4;
+ValeurCmp = 100k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5C7D3;
+Reference = R5;
+ValeurCmp = 1;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5C82F;
+Reference = R6;
+ValeurCmp = ?;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5C7F1;
+Reference = R7;
+ValeurCmp = 10k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C0EB3D;
+Reference = R8;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /56A8AAC2;
+Reference = R9;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C0EB18;
+Reference = R10;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AA1A52;
+Reference = R11;
+ValeurCmp = 10k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5C814;
+Reference = RV1;
+ValeurCmp = 100k;
+IdModule  = bornier3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5C707;
+Reference = U1;
+ValeurCmp = TDA2030;
+IdModule  = PENTAWATT;
+EndCmp
+
+EndListe
