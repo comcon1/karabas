@@ -36,7 +36,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "1 apr 2016"
+Date "2 apr 2016"
 Rev ""
 Comp ""
 Comment1 ""
@@ -284,7 +284,7 @@ F 1 "SMA4007 (GS1M)" H 2700 3700 40  0000 C CNN
 F 2 "~" H 2700 3800 60  0000 C CNN
 F 3 "~" H 2700 3800 60  0000 C CNN
 	1    2700 3800
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L CP1 C1

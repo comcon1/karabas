@@ -3,7 +3,7 @@
   (general
     (links 68)
     (no_connects 0)
-    (area -13.832401 -4.2944 93.832401 50.4496)
+    (area -13.832401 -2.262401 93.832401 50.4496)
     (thickness 1.6)
     (drawings 9)
     (tracks 259)
@@ -1798,4 +1798,19 @@
   (segment (start 61.0475 5.9525) (end 63 4) (width 0.3) (layer F.Cu) (net 27) (tstamp 56C88AD0))
   (segment (start 63 4) (end 64.46 4) (width 0.3) (layer F.Cu) (net 27) (tstamp 56C88AD1))
 
+  (zone (net 0) (net_name "") (layer F.Mask) (tstamp 56CCB859) (hatch edge 0.508)
+    (connect_pads (clearance 0.508))
+    (min_thickness 0.254)
+    (fill (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 22 13) (xy 13 13) (xy 13 2) (xy 22 2)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 21.873 12.873) (xy 13.127 12.873) (xy 13.127 2.127) (xy 21.873 2.127) (xy 21.873 12.873)
+      )
+    )
+  )
 )
