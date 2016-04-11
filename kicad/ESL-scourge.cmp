@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Сб 20 фев 2016 18:24:12
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Пн 11 апр 2016 22:04:04
 
 BeginCmp
 TimeStamp = /55F5CAFC;
@@ -38,35 +38,35 @@ EndCmp
 BeginCmp
 TimeStamp = /55F5C8DB;
 Reference = C6;
-ValeurCmp = 1.0;
+ValeurCmp = 1.0 x 250V;
 IdModule  = SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /55F5CADE;
 Reference = D1;
-ValeurCmp = DIODE;
+ValeurCmp = SMA4007 (GS1M);
 IdModule  = DO_214AA;
 EndCmp
 
 BeginCmp
 TimeStamp = /55F5CAED;
 Reference = D2;
-ValeurCmp = DIODE;
+ValeurCmp = SMA4007 (GS1M);
 IdModule  = DO_214AA;
 EndCmp
 
 BeginCmp
 TimeStamp = /55F5C780;
 Reference = D3;
-ValeurCmp = DIODE;
+ValeurCmp = SMA4007 (GS1M);
 IdModule  = DO_214AA;
 EndCmp
 
 BeginCmp
 TimeStamp = /55F5C7A7;
 Reference = D4;
-ValeurCmp = DIODE;
+ValeurCmp = SMA4007 (GS1M);
 IdModule  = DO_214AA;
 EndCmp
 
@@ -80,35 +80,35 @@ EndCmp
 BeginCmp
 TimeStamp = /56AA1EE0;
 Reference = D6;
-ValeurCmp = DIODE;
+ValeurCmp = SMA4007 (GS1M);
 IdModule  = DO_214AA;
 EndCmp
 
 BeginCmp
 TimeStamp = /56A8AAA4;
 Reference = D7;
-ValeurCmp = DIODE;
+ValeurCmp = SMA4007 (GS1M);
 IdModule  = DO_214AA;
 EndCmp
 
 BeginCmp
 TimeStamp = /56A8C773;
 Reference = D8;
-ValeurCmp = DIODE;
+ValeurCmp = SMA4007 (GS1M);
 IdModule  = DO_214AA;
 EndCmp
 
 BeginCmp
 TimeStamp = /56A8AAE5;
 Reference = D9;
-ValeurCmp = DIODE;
+ValeurCmp = SMA4007 (GS1M);
 IdModule  = DO_214AA;
 EndCmp
 
 BeginCmp
 TimeStamp = /56A8C791;
 Reference = D10;
-ValeurCmp = DIODE;
+ValeurCmp = SMA4007 (GS1M);
 IdModule  = DO_214AA;
 EndCmp
 
@@ -164,21 +164,21 @@ EndCmp
 BeginCmp
 TimeStamp = /56AA152D;
 Reference = Q1;
-ValeurCmp = NPN;
+ValeurCmp = BC847;
 IdModule  = SOT23EBC;
 EndCmp
 
 BeginCmp
 TimeStamp = /56AA1689;
 Reference = Q2;
-ValeurCmp = NPN;
+ValeurCmp = BC847;
 IdModule  = SOT23EBC;
 EndCmp
 
 BeginCmp
 TimeStamp = /56AA18E2;
 Reference = Q3;
-ValeurCmp = NPN;
+ValeurCmp = BC847;
 IdModule  = SOT23EBC;
 EndCmp
 
@@ -234,21 +234,21 @@ EndCmp
 BeginCmp
 TimeStamp = /56C0EB3D;
 Reference = R8;
-ValeurCmp = R;
+ValeurCmp = 1M*;
 IdModule  = SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /56A8AAC2;
 Reference = R9;
-ValeurCmp = R;
+ValeurCmp = 2k*;
 IdModule  = SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /56C0EB18;
 Reference = R10;
-ValeurCmp = R;
+ValeurCmp = 0*;
 IdModule  = SM0805;
 EndCmp
 
@@ -256,6 +256,20 @@ BeginCmp
 TimeStamp = /56AA1A52;
 Reference = R11;
 ValeurCmp = 10k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /570BF5CA;
+Reference = R12;
+ValeurCmp = 30k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /570BF83C;
+Reference = R13;
+ValeurCmp = R;
 IdModule  = SM0805;
 EndCmp
 
